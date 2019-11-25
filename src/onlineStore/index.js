@@ -7,7 +7,7 @@ import SourceCodeButton from "../general/source_code_button"
 
 const Application = () =>
   <div className="container-fluid">
-  <SourceCodeButton url="https://github.com/abdellani/portfolio/tree/development/src/onlineStore"/>
+  <SourceCodeButton url="https://github.com/abdellani/ONLINE_STORE_FE"/>
     <div className="row justify-content-between">
       <LeftPanel />
       <Main />
