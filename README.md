@@ -37,4 +37,4 @@ For a live demo, [click here](https://abdellani.github.io/ONLINE_STORE_FE/).
 
 # Author
 
-Mohamed ABDELLANI [github](www.github.com/abdellani)
+Mohamed ABDELLANI [github](https://www.github.com/abdellani)
