@@ -4,7 +4,7 @@
 
 ![Online store](https://abdellani.github.io/images/online_store.png)
 
-The program is built based on React, CSS and Bootstrap. It is front-end page that can be used for an online store.
+The program is built based on React, CSS and Bootstrap. It is web page that can be used as a frontend for an online store.
 
 The design is inspired from a [dribble project](https://dribbble.com/shots/7476168-Online-store-dashboard-dark-mode).
 
